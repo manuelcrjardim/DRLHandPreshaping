@@ -3,7 +3,7 @@ This project analyzes robotic hand trajectories to classify which object is bein
 
 ## Environment Setup
 #### Prerequisite
-This project requires a fully configured and operational **UniDexGrasp++** environment. Please ensure it is installed and working before proceeding.
+This project requires a fully configured and operational [**UniDexGrasp++**](https://github.com/PKU-EPIC/UniDexGrasp2) environment. Please ensure it is installed and working before proceeding.
 
 #### File Configuration
 You must replace the following two files in your existing **UniDexGrasp++** directory with the versions provided in this repository:

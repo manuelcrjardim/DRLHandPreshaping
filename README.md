@@ -3,10 +3,10 @@ This project analyzes robotic hand trajectories to classify which object is bein
 
 ## Environment Setup
 #### Prerequisite
-This project requires a fully configured and operational UniDexGrasp++ environment. Please ensure it is installed and working before proceeding.
+This project requires a fully configured and operational **UniDexGrasp++** environment. Please ensure it is installed and working before proceeding.
 
 #### File Configuration
-You must replace the following two files in your existing UniDexGrasp++ directory with the versions provided in this repository:
+You must replace the following two files in your existing **UniDexGrasp++** directory with the versions provided in this repository:
 
 1. `shadow_hand_grasp.py`
 2. `shadow_hand_grasp.yaml`
